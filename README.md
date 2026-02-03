@@ -1,6 +1,6 @@
-# Simple Login Application
+# authentication-system
 
-A minimal login app with a **React** frontend and **Node.js** backend. Built for a coding assignment—evaluates code quality, structure, readability, and best practices.
+Simple Login Application — a minimal login app with a **React** frontend and **Node.js** backend. Built for a coding assignment (evaluates code quality, structure, readability, and best practices).
 
 ## Features
 
